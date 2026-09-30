@@ -1,0 +1,8 @@
+hcpcs_code,hcpcs_description,provider_count,avg_charge_multiplier,min_charge_multiplier,max_charge_multiplier
+A0426,"Ambulance service, advanced life support, non-emergency transport, level 1 (als 1)",66,3.31,1.17,9.72
+A0434,Specialty care transport (sct),43,2.68,1.0,8.24
+A0428,"Ambulance service, basic life support, non-emergency transport, (bls)",122,2.61,1.06,4.74
+A0427,"Ambulance service, advanced life support, emergency transport, level 1 (als1-emergency)",455,1.89,1.0,5.73
+A0429,"Ambulance service, basic life support, emergency transport (bls-emergency)",479,1.72,1.0,3.96
+A0425,"Ground mileage, per statute mile",539,1.7,1.0,5.53
+A0433,"Advanced life support, level 2 (als 2)",101,1.65,1.0,3.9

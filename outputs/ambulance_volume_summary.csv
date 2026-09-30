@@ -1,0 +1,8 @@
+hcpcs_code,hcpcs_description,active_providers,total_services_rendered,avg_submitted_charge,avg_medicare_allowed
+A0425,"Ground mileage, per statute mile",539,4767638.1999999993,13.45,8.02
+A0428,"Ambulance service, basic life support, non-emergency transport, (bls)",122,241383.9,567.67,218.03
+A0427,"Ambulance service, advanced life support, emergency transport, level 1 (als1-emergency)",455,240527.7,806.25,424.38
+A0429,"Ambulance service, basic life support, emergency transport (bls-emergency)",479,118685.20000000001,613.18,356.26
+A0426,"Ambulance service, advanced life support, non-emergency transport, level 1 (als 1)",66,13716.0,884.07,267.7
+A0434,Specialty care transport (sct),43,7069.0,1939.27,717.59
+A0433,"Advanced life support, level 2 (als 2)",101,2768.0,1011.04,614.97
